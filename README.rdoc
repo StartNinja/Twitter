@@ -1,0 +1,4 @@
+
+
+Author: Stavros Filippidis 
+Purpose : Building a website where microposts are possible.
